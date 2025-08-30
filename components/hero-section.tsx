@@ -20,7 +20,7 @@ export function HeroSection() {
           </h1>
           <h2 className="text-xl md:text-2xl text-muted-foreground mb-8">Backend Java Developer</h2>
           <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-3xl mx-auto leading-relaxed">
-            Experienced Java Developer with 3+ years building enterprise-grade applications using Spring Boot,
+            Experienced Java Developer with 4+ years building enterprise-grade applications using Spring Boot,
             Microservices, and modern backend technologies. Passionate about creating scalable, high-performance
             solutions.
           </p>
